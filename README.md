@@ -2,4 +2,4 @@
  
  Running the code
  
- python onet.py --url https://s3.amazonaws.com/cuny-is211-spring2015/requests.csv --servers 5
+ python assignment5.py --url https://s3.amazonaws.com/cuny-is211-spring2015/requests.csv --servers 5
